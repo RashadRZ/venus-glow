@@ -1,0 +1,4 @@
+ECHO is on.
+.env
+/vendor/
+/node_modules/
